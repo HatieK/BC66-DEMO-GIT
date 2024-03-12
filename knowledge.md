@@ -30,4 +30,7 @@ khi mới join vào dự án và chưa có source ==> clone
 
 git checkout -b name
 
+**********chuyển nhánh:git checkout name********
+
+
 
