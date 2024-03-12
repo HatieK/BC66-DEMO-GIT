@@ -24,6 +24,8 @@ khi mới join vào dự án và chưa có source ==> clone
 
 <!-- GIT ALIAS -->
 <!-- TẠO NHÁNH -->
+*******Commit trước khi chuyển nhánh************
+
 // tạo nhánh khi code chức năng mới hoặc fix bug thì mới tạo nhánh
 
 git checkout -b name
