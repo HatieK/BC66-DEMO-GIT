@@ -20,8 +20,12 @@ khi mới join vào dự án và chưa có source ==> clone
 <!-- bước cố định  -->
 3.git add -A
 4.git commit -m "create home.html"
-5.git push -u origin master
+5.git push -u origin master (lần đầu, lần 2 trở đi chỉ có git push)
 
-<!--  -->
+<!-- GIT ALIAS -->
+<!-- TẠO NHÁNH -->
+// tạo nhánh khi code chức năng mới hoặc fix bug thì mới tạo nhánh
+
+git checkout -b name
 
 
