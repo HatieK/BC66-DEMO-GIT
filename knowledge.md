@@ -23,5 +23,6 @@ khi mới join vào dự án và chưa có source ==> clone
 5.git push -u origin master
 
 <!--  -->
-
+Đưa code từ nhánh phụ về nhánh chính
+git merge name(tên nhánh phụ)
 
