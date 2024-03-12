@@ -12,3 +12,16 @@ github:nơi lưu trữ code online (driver, icloud)
 lấy code mới nhất từ github về máy ==> pull
 khi mới join vào dự án và chưa có source ==> clone
 
+<!-- KHỞI TẠO DỰ ÁN -->
+1.git init
+2.git remote add origin + link
+
+<!-- ĐẨY CODE TỪ LOCAL LÊN REMOTE -->
+<!-- bước cố định  -->
+3.git add -A
+4.git commit -m "create home.html"
+5.git push -u origin master
+
+<!--  -->
+
+
